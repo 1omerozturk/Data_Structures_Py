@@ -1,53 +1,64 @@
 # Data Structures 
+<ol>
+<li>
+   <h3>  <a href="#linklist">  Linked List  </a></h3>
+    </li>
+    <li>
+       <h3> <a href="#stack">  Linked List  </a></h3>
+    </li>
+    <li>
+      <h3>   <a href="#queue"> Linked List </a></h3>
+    </li>
+    <li>
+        <h3> <a href="#graph"> Linked List </a></h3>
+    </li>
+</ol>
 
 <ul type="none">
-<li>
+<li  id="linklist" align="center">
 <h2>
     <a href="./_linkedList.py">
         Linked List
     </a>
 </h2>
 <br/>
-<img height="100" width="100" src="./img/link.png" alt="Linked List"/>
+<img align="center" height="300" width="400" src="./img/link.png" alt="Linked List"/>
 
 </li>
 
 
-<li>
+<li  id="stack" align="left">
     <h2>
         <a href="./_stack.py"> Stack</a>
         </h2>
         <br/>
-        <img height="100" width="100" src="./img/stack.png" alt="Linked List"/>
+        <img height="300" width="400" src="./img/stack.png" alt="Stack"/>
         
 
 </li>
 
 
-<li>
+<li id="queue" align=right>
     <h2>
         <a href="./_queue.py">
            Queue
         </a>
     </h2>
         <br/>
-        <img height="100" width="100" src="./img/queue.png" alt="Linked List"/>
+        <img align="center" height="300" width="400" src="./img/queue.png" alt="Linked List"/>
         
 
 </li>
 
 
 
-<li>
+<li id="graph">
     <h2>
         <a href="./_graph.py"> Graph</a>
-       
         </h2>
         <br/>
-        <img height="100" width="100" src="./img/link.png" alt="Linked List"/>
+        <img align="center" height="300" width="400" src="./img/graph.png" alt="Graph"/>
         
 
-
 </li>
-
 </ul>
