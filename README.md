@@ -48,7 +48,8 @@
         </a>
     </h2>
         <br/>
-        <img align="center" height="300" width="400" src="./img/queue.png" alt="Linked List"/>
+         
+        <img bgcolor="white" align="center" height="300" width="400" src="./img/queue.png" alt="Linked List"/>
         
 
 </li>
