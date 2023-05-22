@@ -4,13 +4,13 @@
    <h3>  <a href="#linklist">  Linked List  </a></h3>
     </li>
     <li>
-       <h3> <a href="#stack">  Linked List  </a></h3>
+       <h3> <a href="#stack"> Stack  </a></h3>
     </li>
     <li>
-      <h3>   <a href="#queue"> Linked List </a></h3>
+      <h3>   <a href="#queue">Queue </a></h3>
     </li>
     <li>
-        <h3> <a href="#graph"> Linked List </a></h3>
+        <h3> <a href="#graph"> Graph </a></h3>
     </li>
 </ol>
 
