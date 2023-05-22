@@ -1,9 +1,10 @@
 # Data Structures 
-<ol>
+<ul type="none" style=" display: flex;
+          flex-direction: row-reverse;">
 <li>
    <h3>  <a href="#linklist">  Linked List  </a></h3>
     </li>
-    <li>
+    <li type="♾️">
        <h3> <a href="#stack"> Stack  </a></h3>
     </li>
     <li>
@@ -12,12 +13,12 @@
     <li>
         <h3> <a href="#graph"> Graph </a></h3>
     </li>
-</ol>
+</ul>
 
 <ul type="none">
 <li  id="linklist" align="center">
 <h2>
-    <a href="./_linkedList.py">
+    <a title="Go to code" href="./_linkedList.py">
         Linked List
     </a>
 </h2>
@@ -25,22 +26,24 @@
 <img align="center" height="300" width="400" src="./img/link.png" alt="Linked List"/>
 
 </li>
+   <hr/>
 
 
 <li  id="stack" align="left">
     <h2>
-        <a href="./_stack.py"> Stack</a>
+        <a title="Go to code" href="./_stack.py"> Stack</a>
         </h2>
         <br/>
         <img height="300" width="400" src="./img/stack.png" alt="Stack"/>
         
 
 </li>
+   <hr/>
 
 
 <li id="queue" align=right>
     <h2>
-        <a href="./_queue.py">
+        <a title="Go to code" href="./_queue.py">
            Queue
         </a>
     </h2>
@@ -49,12 +52,12 @@
         
 
 </li>
-
+<hr/>
 
 
 <li id="graph">
     <h2>
-        <a href="./_graph.py"> Graph</a>
+        <a title="Go to code" href="./_graph.py"> Graph</a>
         </h2>
         <br/>
         <img align="center" height="300" width="400" src="./img/graph.png" alt="Graph"/>
