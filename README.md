@@ -41,27 +41,24 @@
    <hr/>
 
 
-<li id="queue" align=right>
+<li  id="queue" align="right">
     <h2>
-        <a title="Go to code" href="./_queue.py">
-           Queue
-        </a>
-    </h2>
+        <a title="Go to code" href="./_queue.py"> Queue</a>
+        </h2>
         <br/>
-         
-        <img bgcolor="white" align="center" height="300" width="400" src="./img/queue.png" alt="Linked List"/>
+        <img height="300" width="400" src="./img/queue.png" alt="Queue"/>
         
 
 </li>
 <hr/>
 
 
-<li id="graph">
+<li align="center" id="graph">
     <h2>
         <a title="Go to code" href="./_graph.py"> Graph</a>
         </h2>
         <br/>
-        <img align="center" height="300" width="400" src="./img/graph.png" alt="Graph"/>
+        <img height="300" width="400" src="./img/graph.png" alt="Graph"/>
         
 
 </li>
