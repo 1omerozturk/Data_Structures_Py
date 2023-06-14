@@ -1,5 +1,5 @@
 # Data Structures 
-<ul type="none" style=" display: flex;
+<ul align="center" type="none" style=" display: flex;
           flex-direction: row-reverse;">
 <li>
    <h3>  <a href="#linklist">  Linked List  </a></h3>
